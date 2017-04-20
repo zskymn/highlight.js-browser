@@ -1,0 +1,19 @@
+{
+  "name": "highlight.js-browser",
+  "version": "9.10.0",
+  "description": "highlight.js for browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zskymn/highlight.js-browser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zskymn/highlight.js-browser/issues"
+  },
+  "homepage": "https://github.com/zskymn/highlight.js-browser#readme"
+}
